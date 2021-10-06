@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import MediaCard from "./Card/MediaCard";
 import { Typography } from "@material-ui/core";
 
@@ -60,4 +60,4 @@ const About = () => {
     </div>
   );
 };
-export default About;
+export default About;*/
