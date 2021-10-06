@@ -50,12 +50,12 @@ export default function Footer() {
           <Col md="4" style={{ marginTop: "90px" }}>
             <div className="text-center">
               <a
-                href="https://www.producthunt.com/posts/syntaxmeets?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-syntaxmeets"
+                href="https://github.com/ProgrammingPirates"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <img
-                  src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=276565&theme=light"
+                  src="https://github.com/ProgrammingPirates"
                   alt="SyntaxMeets - Create rooms, call friends and code together simultaneously | Product Hunt"
                   style={{ width: "220px", height: "50px" }}
                 />
@@ -89,7 +89,7 @@ export default function Footer() {
 
               <a
                 className={localclasses.iconGit}
-                href="https://github.com/kothariji/SyntaxMeets"
+                href="https://github.com/ProgrammingPirates"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -109,7 +109,7 @@ export default function Footer() {
           Made with
           <FavoriteIcon style={{ color: "#FFD500" }} /> by &nbsp;
           <a
-            href="https://github.com/kothariji/SyntaxMeets"
+            href="https://github.com/ProgrammingPirates"
             target="_blank"
             rel="noopener noreferrer"
             style={{ textDecoration: "none" }}
